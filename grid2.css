@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+     grid-template-columns: auto auto auto auto; 
+     justify-content: stretch;
+  background-color: rgb(236, 234, 234);
+}
+.items{
+    border: 1px solid white; 
+    padding: 40px;
+    
+   
+}
+.item2{
+display: grid;
+grid-template-columns: auto auto;
+
+
+}
+.sub{
+    border: 2px solid  rgb(225, 222, 222);
+border-spacing: 5px;
+background-color: rgb(198, 194, 194);
+}
+.item7{
+    display: grid;
+    grid-template-columns: auto auto;
+   
+}
